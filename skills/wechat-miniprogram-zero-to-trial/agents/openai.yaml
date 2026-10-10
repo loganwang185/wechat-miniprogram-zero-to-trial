@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信小程序从零到体验版"
+  short_description: "面向零基础用户，代办小程序开发、云端配置与体验版发布，只需扫码授权和填写必要信息"
+  default_prompt: "使用 $wechat-miniprogram-zero-to-trial 帮我从零开发微信小程序并发布体验版，能由你完成的都直接完成，只让我填写必要信息、扫码和授权。"
